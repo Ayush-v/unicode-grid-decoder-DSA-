@@ -59,6 +59,10 @@ decode_secret_message("https://docs.google.com/document/d/e/2PACX-1vSHesOf9hv2sP
    bun index.ts
    ```
 
+3. Output
+
+   !\[\](output-demo.png)
+
 ## Notes
 
 - Ensure proper formatting for fixed-width fonts.
