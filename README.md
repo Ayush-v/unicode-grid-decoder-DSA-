@@ -61,7 +61,7 @@ decode_secret_message("https://docs.google.com/document/d/e/2PACX-1vSHesOf9hv2sP
 
 3. Output
 
-   !\[\](output-demo.png)
+   !\[\](./output-demo.png)
 
 ## Notes
 
